@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshita-01
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning shortcuts to pass engineering
-- 💞️ I’m looking to collaborate on Copetetive programming
+- 🌱 I’m currently working as a Automation Tester at Vodafone
 - 📫 How to reach me ?
 - Here's My LinkedIn Profile to make it easier  https://www.linkedin.com/in/harshita-pengoria/
 
